@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-03-03T04:55:18.417Z",
+    "end": "2021-03-03T04:55:18.453Z",
+    "duration": 36
+  },
+  "tests": [
+    {
+      "title": "calls componentDidMount and adds a Timer",
+      "fullTitle": "<App /> calls componentDidMount and adds a Timer",
+      "duration": 14,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calls componentDidMount",
+      "fullTitle": "<Timer /> calls componentDidMount",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calls componentWillUnmount",
+      "fullTitle": "<Timer /> calls componentWillUnmount",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "calls componentDidMount and adds a Timer",
+      "fullTitle": "<App /> calls componentDidMount and adds a Timer",
+      "duration": 14,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calls componentDidMount",
+      "fullTitle": "<Timer /> calls componentDidMount",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "calls componentWillUnmount",
+      "fullTitle": "<Timer /> calls componentWillUnmount",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
